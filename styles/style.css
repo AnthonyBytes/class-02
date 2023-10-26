@@ -1,28 +1,52 @@
 body {
-  background-color: purple;
+  background-color: rebeccapurple;
+  color: gold;
+  width: 75%;
+  margin: auto;
 }
 
 header {
   color: gold;
   background-color: rgb(14, 13, 13);
   text-align: center;
-  height: 100px;
+  height: 50px;
+  font-size: 50px;
+  padding: 25px;
 }
 img {
- text-align: center;
- width: 300px;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+p {
+  color: gold;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+.video {
+  margin-top: 50px;
+  font-size: 25px;
+}
+
+ul {
+  list-style: circle;
+  font-size: 25px;
+}
+
+ol {
+  list-style:lower-roman;
+  font-size: 25px;
+  padding: 10px;
 }
 
 footer {
   color: gold;
   background-color: rgb(14, 13, 13);
   text-align: center;
-  font-size: 100px;
-  height: 100px;
-
-}
-
-p {
-  color: gold;
   font-size: 25px;
+  padding: 10px;
 }
