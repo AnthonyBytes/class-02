@@ -1,5 +1,5 @@
 # class-02
-
+Lab 04: Navigator: Anthony , Driver: Johnny
 Basics of HTML, CSS & JS
 Overview
 This class is focused on practice with JavaScript, an introduction to data types, conditionals, and arrays. We will also be learning about Git and Github at a much deeper level. Lab will require the creation of a new repo and using a very basic git workflow.
